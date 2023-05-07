@@ -1,0 +1,5 @@
+|
+|
+category1|The rails at the balcony in floor 83 are falling off.
+category1|Testing 2
+Safety|High
